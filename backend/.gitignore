@@ -28,5 +28,6 @@ yarn-error.log*
 /tmp
 
 /src/database/db.sqlite
+/src/database/dbtest.sqlite
 
 
